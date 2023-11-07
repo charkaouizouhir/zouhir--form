@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zouhir--form/static/css/main.122405b8.css",
+    "main.js": "/zouhir--form/static/js/main.6bad5ad6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/zouhir--form/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bag.jpeg": "/zouhir--form/static/media/bag.1e4fb41aab0449dbc5d0.jpeg",
+    "index.html": "/zouhir--form/index.html",
+    "main.122405b8.css.map": "/zouhir--form/static/css/main.122405b8.css.map",
+    "main.6bad5ad6.js.map": "/zouhir--form/static/js/main.6bad5ad6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/zouhir--form/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.122405b8.css",
+    "static/js/main.6bad5ad6.js"
+  ]
+}
